@@ -1811,6 +1811,7 @@
   "fabilau/hass_smart_offset_thermostat",
   "fabio-garavini/ha-openai-whisper-stt-api",
   "fabiobrolo/ha_intelbras_dvr",
+  "fabiobrolo/multi_wan_speedtest",
   "fabiomatavelli/ha-felicity-solar-local",
   "fabioscarparo/ha-arpav-meteo",
   "fabioscarparo/ha-growatt-thor-cloud",
